@@ -6,4 +6,4 @@ COPY . /app
 
 RUN pip install pandas scikit-learn
 
-CMD ["python", "script.py"]
+CMD ["python", "test.py"]
